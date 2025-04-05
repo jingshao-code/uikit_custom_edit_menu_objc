@@ -10,12 +10,11 @@ This project demonstrates how to create custom edit menu actions in a native iOS
 - Detect and offer “Send Email” for email addresses
 - Detect and offer “Open Link” for valid URLs
 - Override default context actions for full control
-- Clean UI design with instructional label and icon 
 
 ## Requirements
 
 - macOS with **Xcode 14+**
-- iOS/iPadOS **16.0+**Y
+- iOS/iPadOS **16.0+**
 - Language: **Objective-C**
 - Apple Developer Account 
 
