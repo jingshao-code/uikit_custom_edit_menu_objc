@@ -30,7 +30,7 @@ This project demonstrates how to create custom edit menu actions in a native iOS
 ## Screenshots
 
 ### Real Device
-<img src="Media/real_device_iphone15.png" alt="Real Device Screenshot" width="300"/>
+<img src="Media/real_device_screenshot.jpg" alt="Real Device Screenshot" width="300"/>
 
 ### Simulator
 <img src="Media/Simulator Screenshot - iPhone 15.png" alt="Simulator Screenshot" width="300"/>
